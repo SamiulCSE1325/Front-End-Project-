@@ -1,1 +1,1 @@
-# Front-End-Project-
+A front-end project focuses on designing and developing the user interface of a website or web application using technologies like HTML, CSS, and JavaScript. It enhances user experience by ensuring responsiveness, interactivity, and seamless navigation across devices.
